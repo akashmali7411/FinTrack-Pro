@@ -1,0 +1,3 @@
+Start postgray sql:  "C:\Program Files\PostgreSQL\18\bin\psql.exe" -U postgres -d fintrack_db
+
+SELECT current_database();
